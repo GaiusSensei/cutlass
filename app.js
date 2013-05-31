@@ -1,9 +1,9 @@
 // Initialize
 var application_root = __dirname,
     express = require("express"),
-    path = require("path"),
-    restful = require('node-restful'),
-    mongoose = restful.mongoose;
+    path = require("path");
+//    restful = require('node-restful'),
+//    mongoose = restful.mongoose;
 var app = express();
 
 // Config
