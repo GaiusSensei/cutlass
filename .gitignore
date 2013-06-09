@@ -1,7 +1,11 @@
+<<<<<<< HEAD
 node_modules
 mongod
 .c9revisions
 npm-debug.log
+=======
+lib-cov
+>>>>>>> 367aa326abdf79b7746f73ffd9649ede56a8371e
 *.seed
 *.log
 *.csv
@@ -9,6 +13,15 @@ npm-debug.log
 *.out
 *.pid
 *.gz
+<<<<<<< HEAD
 pids
 logs
 results
+=======
+
+pids
+logs
+results
+
+npm-debug.log
+>>>>>>> 367aa326abdf79b7746f73ffd9649ede56a8371e
